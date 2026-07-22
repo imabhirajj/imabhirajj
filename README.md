@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abhiraj 👋<br><br>🎓 BTech 2nd year student<br><br>💻 Currently learning Backend Development  <br>⚛️ Building frontend projects using React.js<br><br>📈 Practicing Data Structures & Algorithms regularly<br><br>🤝 Open to collaborate on beginner friendly projects<br>
+Hi, I'm Abhiraj 👋<br><br>🎓 BTech 3rd year student<br><br>💻 Currently learning Backend Development  <br>⚛️ Building frontend projects using React.js<br><br>📈 Practicing Data Structures & Algorithms regularly<br><br>🤝 Open to collaborate on beginner friendly projects<br>
 
 
 # 💻 Tech Stack:
