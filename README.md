@@ -39,12 +39,6 @@ I'm a Full Stack Developer and 3rd-year BTech student, focused on building clean
 
 For beginners who want to learn and contribute to open source.
 
-<div align="left">
-  <a href="https://github.com/imabhirajj/PRFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhirajj&repo=PRFlow&theme=nord&border_color=0EA5E9&title_color=0EA5E9&icon_color=38BDF8" alt="PRFlow repo card" />
-  </a>
-</div>
-
 | Layer | Technology |
 |---|---|
 | Frontend | React |
@@ -72,17 +66,6 @@ For beginners who want to learn and contribute to open source.
 **Database**
 
 <img src="https://skillicons.dev/icons?i=mongodb" />
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imabhirajj&show_icons=true&theme=nord&border_color=0EA5E9&title_color=0EA5E9&icon_color=38BDF8&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhirajj&layout=compact&theme=nord&border_color=0EA5E9&title_color=0EA5E9&hide_border=false" alt="Top Languages" height="165"/>
-
-</div>
 
 <br/>
 
