@@ -1,24 +1,118 @@
-# 💫 About Me:
-Hi, I'm Abhiraj 👋<br><br>🎓 BTech 3rd year student<br><br>💻 Currently learning Backend Development  <br>⚛️ Building frontend projects using React.js<br><br>📈 Practicing Data Structures & Algorithms regularly<br><br>🤝 Open to collaborate on beginner friendly projects<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=200&section=header&text=Abhiraj%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imabhirajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imabhirajj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imabhirajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/imabhirajj">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+React+%26+Node.js;Learning+Backend+Development+Daily;Creator+of+PRFlow" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imabhirajj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=imabhirajj&label=Profile%20Views&color=0EA5E9&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/imabhirajj?label=Followers&style=flat&color=0EA5E9" alt="Followers" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imabhirajj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=imabhirajj&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧾 Who I Am
+
+```typescript
+const abhiraj = {
+  title: "Full Stack Developer",
+  stack: {
+    languages: ["C++", "JavaScript"],
+    frontend: ["HTML5", "React"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB"],
+  },
+  launchedProjects: ["PRFlow — a platform for beginners to learn and contribute to open source"],
+  certifications: [],
+  status: "🎓 Learning backend development, building with React daily",
+  openTo: ["Collaborating on beginner-friendly open-source projects"],
+};
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 📌 PRFlow
+
+For beginners who want to learn and contribute to open source.
+
+<div align="left">
+  <a href="https://github.com/imabhirajj/PRFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhirajj&repo=PRFlow&theme=nord&border_color=0EA5E9&title_color=0EA5E9&icon_color=38BDF8" alt="PRFlow repo card" />
+  </a>
+</div>
+
+| Layer | Technology |
+|---|---|
+| Frontend | React |
+| Backend | Node.js, Express |
+| Database | MongoDB |
+
+🔗 **[Live](https://imabhirajj.github.io/PRFlow/)** &nbsp;•&nbsp; 💻 **[Code](https://github.com/imabhirajj/PRFlow)**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,js,react" />
+
+**Backend / Infra**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=imabhirajj&show_icons=true&theme=nord&border_color=0EA5E9&title_color=0EA5E9&icon_color=38BDF8&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhirajj&layout=compact&theme=nord&border_color=0EA5E9&title_color=0EA5E9&hide_border=false" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=imabhirajj&theme=nord&border=0EA5E9&background=0D1117&ring=0EA5E9&fire=38BDF8" alt="GitHub Streak" />
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imabhirajj&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imabhirajj&theme=react-dark&color=0EA5E9&line=38BDF8&point=ffffff&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/abhiraj-singh-4898b8310">
+    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sabhiraj851@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=120&section=footer" width="100%"/>
