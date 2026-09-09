@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=200&section=header&text=Abhiraj%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/imabhirajj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+React+%26+Node.js;Learning+Backend+Development+Daily;Creator+of+PRFlow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;BTech+3rd+Year+Student;Building+with+React+%26+Node.js;Creator+of+PRFlow" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,23 +15,21 @@
 
 <br/>
 
-## 🧾 Who I Am
+## 👋 About Me
 
-```typescript
-const abhiraj = {
-  title: "Full Stack Developer",
-  stack: {
-    languages: ["C++", "JavaScript"],
-    frontend: ["HTML5", "React"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB"],
-  },
-  launchedProjects: ["PRFlow — a platform for beginners to learn and contribute to open source"],
-  certifications: [],
-  status: "🎓 Learning backend development, building with React daily",
-  openTo: ["Collaborating on beginner-friendly open-source projects"],
-};
-```
+I'm a Full Stack Developer and 3rd-year BTech student, focused on building clean, functional web applications with **React**, **Node.js**, and **MongoDB** — while sharpening my fundamentals in **C++** and Data Structures & Algorithms along the way. I'm currently deepening my backend development skills and enjoy building tools that help other developers, especially beginners entering open source.
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🎓 **Education** | BTech, 3rd Year |
+| 💼 **Role** | Full Stack Developer |
+| 🧠 **Currently Focused On** | Backend Development |
+| 🚀 **Featured Project** | [PRFlow](https://github.com/imabhirajj/PRFlow) — helping beginners contribute to open source |
+| 🤝 **Open To** | Beginner-friendly open-source collaboration |
+
+</div>
 
 <br/>
 
@@ -84,20 +82,6 @@ For beginners who want to learn and contribute to open source.
 <img src="https://github-readme-stats.vercel.app/api?username=imabhirajj&show_icons=true&theme=nord&border_color=0EA5E9&title_color=0EA5E9&icon_color=38BDF8&hide_border=false" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhirajj&layout=compact&theme=nord&border_color=0EA5E9&title_color=0EA5E9&hide_border=false" alt="Top Languages" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=imabhirajj&theme=nord&border=0EA5E9&background=0D1117&ring=0EA5E9&fire=38BDF8" alt="GitHub Streak" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imabhirajj&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imabhirajj&theme=react-dark&color=0EA5E9&line=38BDF8&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
